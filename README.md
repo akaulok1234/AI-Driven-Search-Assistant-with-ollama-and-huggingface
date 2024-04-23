@@ -1,6 +1,6 @@
 # Project Overview
 
-This project provides an automated way to perform Google searches, process the HTML content of the resulting pages, and use natural language processing to generate answers to user queries based on the search results. The application utilizes several libraries including Playwright, BeautifulSoup, LangChain, and Hugging Face's transformers.
+This project provides an automated way to perform Google searches, process the HTML content of the resulting pages, and use natural language processing to generate answers to user queries based on the search results. The application utilizes several libraries including Playwright, BeautifulSoup, LangChain, and Hugging Face's transformers. The main.py used ollama , llama2 from meta, and the second version usen Openai api key 
 
 ## Code Functionality
 
